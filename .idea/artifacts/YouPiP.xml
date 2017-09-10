@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="YouPiP">
+    <output-path>$PROJECT_DIR$/out/artifacts/YouPiP</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="height" value="50" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="300" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="YouPiP.jar">
+        <element id="module-output" name="YouPiP" />
+      </element>
+    </root>
+  </artifact>
+</component>
